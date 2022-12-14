@@ -3,19 +3,21 @@
 ## Overview of Project
 
 ### Purpose
-To create a viusal way to access the 
+The purpose of the analysis is to evaluate whether Louise's fundraising campaign will be succesful, or not, by using historical data from similar campaigns.
+
 ## Analysis and Challenges
 Some Challenges that I faced were splitting the cells for the "parent" and "sub-category "categories .
+
 ### Analysis of Outcomes Based on Launch Date
 Based on the graphs below you can see a visual scale of which theatre based kickstarter campiagns were sucessful and unsucessful along the year. 
-![Theatre_Outcomes_VS_Launch](https://user-images.githubusercontent.com/109875421/182756977-081a35ee-af87-4e34-bcbe-36a75b3632e0.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/109875421/207483201-5b6de538-9d5e-4cf7-857a-7bb6c3b9c6d3.png)
 
 ### Analysis of Outcomes Based on Goals
 Number Successful, Failed and Canceled were populated Using COUNTIFS function from Goal amount and Subcatagory, play columns. Then percentage of each outcome was 
 calculated. Finally, a line chart was created to visualize the relationship between the goal amount range and the percentage of successful, failed and canceled projects.
 ### Challenges and Difficulties Encountered
 The major difficulty I encountere was first with the excel "sheet 1", with creating seperate collumns for the parent category and sub-categories, and this skewed the graph a bit. 
-![Outcome_vs_Goals](https://user-images.githubusercontent.com/109875421/182757873-b8a7cd06-6454-4a6e-b734-401c8c3f18b4.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/109875421/207483284-1ec13ec2-6297-4e24-ae28-e22f1c956480.png)
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
